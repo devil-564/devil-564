@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohammad Irfan Lohar</h1>
 <h3 align="center">A passionate Full Stack Web Developer from India</h3>
 
-<p align="left" style = "display : flex; flex-wrap : wrap;"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devil-564" alt="devil-564" /></a> </p>
-
 - 🔭 I’m currently working on **Movie Ticket Management System**
 
 - 🌱 I’m currently learning **Tailwind CSS, Framer Motion**
