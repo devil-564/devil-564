@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Mohammad Irfan Lohar</h1>
+<h1 align="center">Hi 👋, I'm Mohd Irfan Lohar</h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?lines=Backend-Focused+Full+Stack+Developer;ASP.NET+Core+%7C+Node.js+%7C+React;Building+Scalable+Applications&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.demolab.com?lines=Associate+Web+Developer+%7C+.NET+Core;Building+scalable+backend+systems;API+development+and+system+integration&center=true&width=600&height=50">
 </h3>
 
 ---
@@ -13,32 +13,6 @@
 - 👨‍💻 Portfolio: 👉 https://irfan88io.netlify.app/
 - 💬 Ask me about **ASP.NET Core, C#, Node.js, React, SQL, System Design**
 - 📫 Reach me at: **irfan007lohar@gmail.com**
-
----
-
-<h3 align="left">🌐 Connect with me:</h3>
-
-<table>
-<tr>
-<td align="center">
-<a href="https://linkedin.com/in/irfancoder01001/" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="30"/><br>LinkedIn
-</a>
-</td>
-
-<td align="center">
-<a href="https://www.leetcode.com/irfucoder/" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="30"/><br>LeetCode
-</a>
-</td>
-
-<td align="center">
-<a href="https://instagram.com/z__mr.devil__z/" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="30"/><br>Instagram
-</a>
-</td>
-</tr>
-</table>
 
 ---
 
@@ -78,9 +52,29 @@
 
 - 🎬 **Movie Maestro (Movie Ticket Booking System)**  
   Full-stack MERN application with authentication, seat selection, and Stripe payment integration.
-
+  
 ---
 
-<a href="https://app.daily.dev/devilirfan">
-<img src="https://api.daily.dev/devcards/v2/4dDyOIyuXQsvLphSNTQUi.png?type=default&r=n3q" width="356" />
+<h3 align="left">🌐 Connect with me:</h3>
+
+<table>
+<tr>
+<td align="center">
+<a href="https://linkedin.com/in/irfancoder01001/" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="30"/><br>LinkedIn
 </a>
+</td>
+
+<td align="center">
+<a href="https://www.leetcode.com/irfucoder/" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="30"/><br>LeetCode
+</a>
+</td>
+
+<td align="center">
+<a href="https://instagram.com/z__mr.devil__z/" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="30"/><br>Instagram
+</a>
+</td>
+</tr>
+</table>
