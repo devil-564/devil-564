@@ -10,7 +10,7 @@
 - 🚀 Experienced in building **scalable backend systems using ASP.NET Core, C#, and Web APIs**
 - 🔗 Worked on **third-party integrations (DocuSign, Equifax, GitLab APIs)**
 - 🤖 Built an **AI-powered code review agent reducing review effort by ~20%**
-- 👨‍💻 Portfolio: 👉 https://irfan88io.netlify.app/
+- 👨‍💻 Portfolio: 👉 https://mdirfan-portfolio.netlify.app/
 - 💬 Ask me about **ASP.NET Core, C#, Node.js, React, SQL, System Design**
 - 📫 Reach me at: **irfan007lohar@gmail.com**
 
