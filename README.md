@@ -17,17 +17,28 @@
 ---
 
 <h3 align="left">🌐 Connect with me:</h3>
-<p align="left">
+
+<table>
+<tr>
+<td align="center">
 <a href="https://linkedin.com/in/irfancoder01001/" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="30"/><br>LinkedIn
 </a>
+</td>
+
+<td align="center">
 <a href="https://www.leetcode.com/irfucoder/" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="30"/><br>LeetCode
 </a>
+</td>
+
+<td align="center">
 <a href="https://instagram.com/z__mr.devil__z/" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="30"/><br>Instagram
 </a>
-</p>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -59,35 +70,14 @@
 
 <h3 align="left">🚀 Featured Projects:</h3>
 
-- 🎬 **Movie Maestro (Movie Ticket Booking System)**  
-  Full-stack MERN application with authentication, seat selection, and Stripe payment integration.
+- 🧾 **Financing Platform & Audit Tool**  
+  ASP.NET + WPF application with DocuSign & Equifax integration and secure encrypted data handling.
 
 - 🔗 **GitLab API Integration Service**  
   Built using Node.js & Express to manage repositories, branches, and merge requests with webhook handling.
 
-- 🧾 **Financing Platform & Audit Tool**  
-  ASP.NET + WPF application with DocuSign & Equifax integration and secure encrypted data handling.
-
----
-
-<h3 align="left">📊 GitHub Stats:</h3>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=devil-564&show_icons=true" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=devil-564" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=devil-564&layout=compact" />
-</p>
-
----
-
-<h3 align="left">🏆 GitHub Trophies:</h3>
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=devil-564&theme=flat" />
-</p>
+- 🎬 **Movie Maestro (Movie Ticket Booking System)**  
+  Full-stack MERN application with authentication, seat selection, and Stripe payment integration.
 
 ---
 
